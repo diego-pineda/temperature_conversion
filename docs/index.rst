@@ -13,5 +13,7 @@ Welcome to Temperature Conversion's documentation!
    project_intro.md
    temperature.md
 
+   api.rst
+
 
 
